@@ -74,6 +74,6 @@
     "semantic-ui-react": "^0.83.0",
     "sequelize": "^4.42.0",
     "webpack": "^4.27.1",
-    "webpack-cli": "^3.1.2"
+    "webpack-cli": "^3.3.12"
   }
 }
